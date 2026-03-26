@@ -1,2 +1,2 @@
-# boiceta
+# projeto git dos betinhas
 trabalho
